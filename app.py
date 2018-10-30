@@ -1,7 +1,6 @@
 #our web app framework!
 
-#you could also generate a skeleton from scratch via
-#http://flask-appbuilder.readthedocs.io/en/latest/installation.html
+#you could aladthedocs.io/en/latest/installation.html
 
 #Generating HTML from within Python is not fun, and actually pretty cumbersome because you have to do the
 #HTML escaping on your own to keep the application secure. Because of that Flask configures the Jinja2 template engine 
